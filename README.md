@@ -2,7 +2,7 @@
 
 Spa/Eng 
 
-🎓 Currently a third semester student of Engineering 
+🎓 Currently a student of Engineering 
 
 amateur programmer
 
